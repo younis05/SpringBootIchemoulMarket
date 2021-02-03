@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+body{background: url(/images/bg.jpg) no-repeat;
+   box-sizing: border-box;  background-size: cover; background-attachment: fixed;
+     padding-top:20%; margin: 0; padding: 0;
+  
+                          
+ }

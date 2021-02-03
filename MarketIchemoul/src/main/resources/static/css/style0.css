@@ -1,0 +1,103 @@
+
+
+body{
+  padding-top:20%;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background:#111111;
+  background-size: cover;
+  background-attachment: fixed;
+  box-sizing: border-box;
+}
+body .container{
+	padding-top:5%;
+}
+section{
+  width: 100%;
+  height:100vh;
+  
+}
+.register-box{
+  top:10%;
+  width: 100%;
+  text-align:center;
+  margin:0;
+  padding-left:15%;
+  
+}
+
+.login-card{
+  width: 60%;
+  padding-left:15%;
+  text-align: center;
+  color: white;
+  
+}
+.login-card h1{
+  
+  font-size: 40px;
+  border-bottom: 3px solid #00BF00;
+  margin-bottom: 10px;
+  
+ 
+}
+.textbox{
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  border-bottom: 1px solid #00BF00;
+ 
+}
+.textbox i{
+  width: 26px;
+  text-align: center;
+  
+}
+.textbox input{
+  border: none;
+  outline: none;
+  background: none;
+  color: white;
+  font-size: 18px;
+  width: 80%;
+  margin: 0 10px;
+
+}
+.btn_0{
+  width: 100%;
+  background: none;
+  border: 2px solid #00BF00;
+  color: white;
+  padding: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 12px 0;
+}
+.gotopbtn{
+  position: fixed;
+  width: 30px;
+  height: 30px;
+  background: #FE0019;
+  bottom: 65px;
+  right: 30px;
+  border-radius:50px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  font-size: 22px;
+}
+span{
+	color:red;
+}
+footer{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background:#076DE4;
+  color: white;
+  
+}
